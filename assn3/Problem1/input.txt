@@ -1,0 +1,5 @@
+2
+Grass 10 5 20
+Fire 8 3 30
+Water 9 5 15
+Water 8 4 20
